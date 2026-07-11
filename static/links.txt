@@ -1,0 +1,44 @@
+title: 微博
+url: https://weibo.com/u/7903517120
+
+title: 微信公众号
+qrcode: ./static/wx-official.png
+
+title: 知乎
+url: https://www.zhihu.com/people/rswk5
+
+title: bilibili
+url: https://space.bilibili.com/9976765
+
+title: 抖音
+url: https://www.douyin.com/user/MS4wLjABAAAA_bNxICm7aZVckGyC1_OvGXbax543sHC9Jye20P9gpCuhzRSPnBhdyGe8kxF7JtO8
+
+title: 快手
+url: https://www.kuaishou.com/profile/3xffa3idib75bwy
+
+title: 小红书(rednote)
+url: https://www.xiaohongshu.com/user/profile/6a449a0b000000000f039404
+
+title: Facebook
+url: https://www.facebook.com/yunlihub
+
+title: Instagram
+url: https://www.instagram.com/yunliyo
+
+title: Threads
+url: https://www.threads.com/@yunliyo
+
+title: X(原Twitter)
+url: https://x.com/yunliyo
+
+title: Bluesky
+url: https://bsky.app/profile/yunliyo.bsky.social
+
+title: YouTube
+url: https://www.youtube.com/@yunliyo
+
+title: TikTok
+url: https://www.tiktok.com/@coder_yunli
+
+title: Lemon8-app
+url: https://www.lemon8-app.com/@coder_yunli
