@@ -4,6 +4,9 @@ url: https://weibo.com/u/7903517120
 title: 微信公众号
 qrcode: ./static/wx-official.png
 
+title: 即刻
+url: https://web.okjike.com/u/02cb6bc9-2e8d-431e-bbd0-c72cdd779fac
+
 title: 知乎
 url: https://www.zhihu.com/people/rswk5
 
@@ -11,16 +14,16 @@ title: bilibili
 url: https://space.bilibili.com/9976765
 
 title: 抖音
-url: https://www.douyin.com/user/MS4wLjABAAAA_bNxICm7aZVckGyC1_OvGXbax543sHC9Jye20P9gpCuhzRSPnBhdyGe8kxF7JtO8
+url: https://www.douyin.com/user/MS4wLjABAAAAhxQrfpFRzs7XpFF2m0H7yBCx76Ki1yoGI-DkGmAx89gyogB4EhBHasjEVWG1f2EJ
 
 title: 快手
 url: https://www.kuaishou.com/profile/3xffa3idib75bwy
 
 title: 小红书(rednote)
-url: https://www.xiaohongshu.com/user/profile/6a449a0b000000000f039404
+url: https://www.xiaohongshu.com/user/profile/6a58decf000000000e03dc01
 
 title: Facebook
-url: https://www.facebook.com/yunlihub
+url: https://www.facebook.com/yunliyo101
 
 title: Instagram
 url: https://www.instagram.com/yunliyo
@@ -34,8 +37,11 @@ url: https://x.com/yunliyo
 title: Bluesky
 url: https://bsky.app/profile/yunliyo.bsky.social
 
+title: Mastodon
+url: https://mastodon.social/@yunliyo
+
 title: YouTube
-url: https://www.youtube.com/@yunliyo
+url: https://www.youtube.com/@youweijuny
 
 title: TikTok
 url: https://www.tiktok.com/@coder_yunli
